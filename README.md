@@ -1,6 +1,8 @@
 Zod Validation Form
 
-This repository contains a form validation system using Zod, React Hook Form, and TypeScript. It ensures secure and user-friendly validation for common form inputs such as name, email, password, and password confirmation.
+This repository contains a form validation system using Zod, React Hook Form, and TypeScript. 
+
+It ensures secure and user-friendly validation for common form inputs such as name, email, password, and password confirmation.
 
 ![image](https://github.com/user-attachments/assets/42fcf2dd-c083-4423-b960-0a996475128c)
 
